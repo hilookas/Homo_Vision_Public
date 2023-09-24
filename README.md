@@ -123,7 +123,7 @@ Ref: [EdgeBoard——SD卡分区扩容并增加虚拟内存_Irving.Gao的博客-
 
 ```shell
 # 安装 v4l2 工具包
-sudo apt install v4l-utils
+sudo apt install v4l2-utils
 
 # 查看摄像头设备
 v4l2-ctl --list-devices

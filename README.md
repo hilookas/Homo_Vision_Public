@@ -2,13 +2,11 @@
 
 此程序为 海韵五队 参加 第十七届全国大学生智能汽车竞赛完全模型组省赛 比赛时，EdgeBoard 计算卡程序，比赛时运行在 EdgeBoard 上。
 
-传统巡线以及模型部署代码待后期合适时间后释出（队友并不是很想开源）。
-
 技术方案参见博客文章：[完全模型组 EdgeBoard 端快速调车经验分享 | lookas](https://18kas.com/homo-vision)
 
 ## 环境需求
 
-程序运行在 EdgeBoard Linux 环境上，要求在 `/opt/opencv` 目录下安装有 OpenCV 4.5.5 版本，方式如下问所述。
+程序运行在 EdgeBoard Linux 环境上，要求在 `/opt/opencv` 目录下安装有 OpenCV 4.5.5 版本，方式如下文所述。
 
 程序也可运行在 Windows 系统，需要安装有 Microsoft Visual Studio Tools (cl.exe)，Windows SDK (windows.h)，OpenCV，CMake，Git Bash
 
